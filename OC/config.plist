@@ -1674,7 +1674,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>dw==</data>
+				<data>lQ==</data>
 				<key>boot-args</key>
 				<string>keepsyms=1 debug=0x100 swd_panic=1 darkwake=514 dart=0 alcid=4</string>
 				<key>csr-active-config</key>
@@ -1924,7 +1924,7 @@
 			<key>AudioSupport</key>
 			<true/>
 			<key>MinimumVolume</key>
-			<integer>77</integer>
+			<integer>95</integer>
 			<key>PlayChime</key>
 			<string>Auto</string>
 			<key>ResetTrafficClass</key>
