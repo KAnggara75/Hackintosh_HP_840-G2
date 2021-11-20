@@ -431,6 +431,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -1695,7 +1697,7 @@
 				<key>SystemAudioVolume</key>
 				<data>lQ==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 swd_panic=1 darkwake=514 dart=0 alcid=4 -hbfx-disable-patch-pci</string>
+				<string>keepsyms=1 debug=0x100 swd_panic=1 darkwake=514 dart=0 alcid=4 -hbfx-disable-patch-pci</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -2109,6 +2111,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
